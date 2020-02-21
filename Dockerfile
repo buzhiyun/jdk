@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM centos:centos7.7.1908
   
 # WORKDIR /tmp
 # RUN apk add --no-cache curl
